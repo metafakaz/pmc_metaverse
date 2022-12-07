@@ -1,0 +1,46 @@
+Metafakaz
+
+Main goals:
+ be a part of an enviroment where:
+
+
+	1: blockchain based trustless manner
+    	 owning your DATA
+	2: IoT and dNFT based reward system
+   	 use the system where equality is goal
+	3: community focused DAO system
+   	 penalty system based on the weight of fault
+   	 respect against the other members
+
+
+How the improve the metaverse?
+
+1: Need of trustless manner
+
+The main problem in the actual metaverse systems visions lays in the fundamentals of the human standards. We trying to (re)create our existense in the way how we live our life: with the same motivational items, goals, and kinda rewards. These things are defining the metaverse itself in any/many ways, and the thoughts how we build them. 
+People need to be triggered in any/many way to feel the need of missing something from their daily life. Simple as it comes in giant social media platforms. 
+
+The users of these platforms are willing to pay as much as they can to be a part of the new world considered better than where they are live in. As its always this situation is used by most of the giants, selling service, personal data, analitics data etc to squeez the user as much as possible. This brings the user to slave state, just to get that lil’ pituitary gland stimulated. 
+
+To solve this, and take the control from them, the data have to be owned and controlled by the user, by using WEB3 solutions in hand with blockchain systems. This way the metaverse lays on good and strong trustless base.
+
+For example, take Kusamaverse, which is the most user friendly and well developed existing metaverse, but still, the missing part(in our opinion) is the average user(the web2 user).
+If there will be spaces,chains(or call it whatever you would like) created, where the not so crypto enthusiastic users can share their daily life or personal intrests(personal data, CV, hobbys, etc.), which they can sell to big companies, that will be an extra motivational tool for sure.
+For example, there will be a "Pizza lovers" corner in the metaverse and users gather around and share any pizza related stuff(or NFTs even) and PizzaHut comes along to gather data(for any business related reasons), and in that case PizzaHut has to pay for the claimed data.
+And existing protocols, like KILT's DIDs becomes an even more powerful tools to complement these needs.
+
+
+2:
+IoT hand in hand with dNFT
+Metaverse as its own can not exist, their users probably never be completly a part of it. Interactions with the world around us is a must, sure our brain can be stimulated, but by nature need we always want to be a part of a group/team and share our time with these by selected humans, and get verbal and phisical feedback from them.
+In our opinion we will never let the real life go, Metaverse will be a part of our life with IoT systems, and dNFT will play a huge role in this field. With IoT-dNFT we can reward people by their mean “output” in the real life, and solve the equality issues what comes in many forms like discrimination or wealth differences.
+By IoT and dNFT metaverse can be a part of our life…. Or the real life will be a part of our digital one?
+
+
+3:
+People have to find their happiness and goals in the metaverse to feel that they want to be a part of it. As much as people will join the metaverse, as much as different views will meet what can lead to disagreements. Thank to the stable core (1) and the layers built on it (2) DAO voting with equal rights can be the solution for every user who is part of it. No share (stake etc) based voting rights, every single people have X voting point(s) power, where this points are representing the behavior of the user in the metaverse (and hardcore visionary areas even in RL)
+Every serious fault/crime can lead to voting power right loss.
+
+And all of the above, we need a more developed and faster, user friendly interface.
+But even if we create the best and the fastest project, there will be always a problem....will people goint to use it?
+Unfortunatelly, there is no garantee.

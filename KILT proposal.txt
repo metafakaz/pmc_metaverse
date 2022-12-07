@@ -1,0 +1,31 @@
+Metafakaz
+
+With the appearance of the internet, it was a huge shift in the way we think about our privacy, personal data or even business models.
+Nowadays, we are being exposed more than ever and the majority of the daily internet users are not even aware of.
+The worst part of this that big tech giants are handling and trade our "identity" on a daily basis profiting huge amount of money in the process.
+
+With the help of web3 and DID(Decentralised Identifiers) we can make a difference.
+But to reach our goal and achieve awareness, we need to educate everyone from a Tik-Tok user to our grandma who search for cookie recepies on the web.
+
+Because we are too lazy to read "Terms and Conditions" the big tech companies(Meta, Google, etc.) owns information about us.
+It is a multi billoin industry and it's a shame that most of the users are not even care about earning a passive or non-passive well deserved income.
+
+A price on an average person's data is somewhere about 0.0005$ and companies sell these data for 2$. 
+The margin is enormous and we are talking about only ONE TRANSACTION! The daily transaction amount estimated around 500-550. That adds up for a 30.000$/person/month.
+Crazy numbers but what if we say, that you can own your data with well prooven protocols/technology and keep a decent percent(or all) from selling it.
+
+That is where KILT comes in the picture.
+
+KILT provides a protocol and the tools for people to manage their own data, and to build a digital identity by collecting credentials issued by trusted entities.
+A KILT decentralized identifier (DID) is a string of letters and numbers uniquely identifying each KILT user.
+You can choose between a "light" or a "full" version. For the light version you do not even need any internet connection, but still can handle low-security use cases.
+With the "full DID" you can manage multiple keys and also replace them with the support of the KILT blockchain.
+
+Web3 names are another feature on KILT. In short, web3names are user-friendly aliases for KILT DIDs and this is what we exactly need.
+Also, beyond linking a web3 name, KILT allows to link multiple accounts to a single DID and they can reference to any chain in the Dotsama ecosystem.
+
+Let's take Kusamaverse for example. 
+We can put an identity layer around several projects and users can create a simple wallet called Sporran, to store credentials and own their personal data, which they can later sell or share to big companies, or whoever they like.
+
+Your data under your control!
+ 
